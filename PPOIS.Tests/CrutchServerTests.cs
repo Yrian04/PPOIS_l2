@@ -1,12 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PPOIS_l2;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PPOIS_l2.Tests
+﻿namespace PPOIS_l2.Tests
 {
     [TestClass()]
     public class CrutchServerTests

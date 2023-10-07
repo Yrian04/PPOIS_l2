@@ -1,7 +1,4 @@
-﻿using System.Reflection.PortableExecutable;
-using System.Reflection;
-
-namespace PPOIS_l2
+﻿namespace PPOIS_l2
 {
     public record Letter
     {
